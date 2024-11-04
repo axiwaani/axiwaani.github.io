@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://axiwaani.github.io/PBy/sitemap_index.txt
+Sitemap: https://axiwaani.github.io/PxF/sitemap_index.txt
+Sitemap: https://axiwaani.github.io/UCV/sitemap_index.txt
+Sitemap: https://axiwaani.github.io/wrO/sitemap_index.txt
